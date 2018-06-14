@@ -21,7 +21,8 @@ Please click on the links below to access the online forms.
 
 More informatino on the HAZUS building types can be found in this [Wiki](https://github.com/GFZ-Centre-for-Early-Warning/ECEE2018_Workshop/wiki/HAZUS-Building-types) page.
 
-More informatino on the GEM building taxonomy can be found in this [Wiki]() page.
+
+More informatino on the GEM building taxonomy can be found in this [Wiki](https://github.com/GFZ-Centre-for-Early-Warning/ECEE2018_Workshop/wiki/GEM-Taxonomy) page.
 
 ## Contacts
 For any further information please contact us:
