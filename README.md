@@ -22,6 +22,7 @@ Please click on the links below to access the online forms.
 ### [HAZUS - C1 - Concrete Moment Frame](https://goo.gl/forms/SI5qyqDekP5IcLBo2)
 ### [HAZUS - C2 - Concrete Shear Walls](https://goo.gl/forms/ScfQo7u81AABZSyH2)
 ### [HAZUS - C3 - Concrete Frame with Unreinforced Masonry Infill Walls](https://goo.gl/forms/GNujl46TlLPu6tXG2)
+### [HAZUS - PC1 - Precast Concrete Tilt-Up Walls](https://goo.gl/forms/4tRr9jTnmlB7kR7y1)
 ### [HAZUS - PC2 - Concrete Frame with Concrete Shear Walls](https://goo.gl/forms/iaoJbigoxL2tNGVH2)
 
 More informatino on the HAZUS building types and on the GEM building taxonomy can be found in this [Wiki](https://github.com/GFZ-Centre-for-Early-Warning/ECEE2018_Workshop/wiki) page.
