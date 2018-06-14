@@ -18,7 +18,7 @@ Please click on the links below to access the online forms.
 
 ### [HAZUS - URM - Unreinforced Masonry Bearing Walls](https://goo.gl/forms/fMIXGDq27BZqXi1r1)
 ### [HAZUS - RM1 - Reinforced Masonry Bearing Walls with Wood or Metal Deck Diaphragms](https://goo.gl/forms/uuVS0vQLsSsiBlez2)
-### [HAZUS - RM2: Reinforced Masonry Bearing Walls with Precast Concrete Diaphragms](https://goo.gl/forms/r6U7dLOEyoSaavE23)
+### [HAZUS - RM2: Reinforced Masonry Bearing Walls with Precast Concrete Diaphragms](https://goo.gl/forms/fKo9hVViOTN8CQsx1)
 ### [HAZUS - C1 - Concrete Moment Frame](https://goo.gl/forms/SI5qyqDekP5IcLBo2)
 ### [HAZUS - C2 - Concrete Shear Walls](https://goo.gl/forms/ScfQo7u81AABZSyH2)
 ### [HAZUS - C3 - Concrete Frame with Unreinforced Masonry Infill Walls](https://goo.gl/forms/GNujl46TlLPu6tXG2)
