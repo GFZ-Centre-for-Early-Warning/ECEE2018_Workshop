@@ -10,7 +10,7 @@ The use of faceted taxonomies such as [the one proposed by the Global Earthquake
 * TIME: 11:15-13:00
 * ROOM: CR2 (building M2 - Thessaloniki Concert Hall/16ECEE Conference Venue)
 * PAX: 10-20
-* DURATION: 2h  
+* DURATION: 2h 15m 
 * SETTING: Classroom Style 
 
 ## Elicitation forms
