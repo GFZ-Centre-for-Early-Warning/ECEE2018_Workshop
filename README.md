@@ -19,10 +19,8 @@ Please click on the links below to access the online forms.
 ### [HAZUS - RM2: Reinforced Masonry Bearing Walls with Precast Concrete Diaphragms](https://goo.gl/forms/r6U7dLOEyoSaavE23)
 
 
-More informatino on the HAZUS building types can be found in this [Wiki](https://github.com/GFZ-Centre-for-Early-Warning/ECEE2018_Workshop/wiki/HAZUS-Building-types) page.
+More informatino on the HAZUS building types and on the GEM building taxonomy can be found in this [Wiki](https://github.com/GFZ-Centre-for-Early-Warning/ECEE2018_Workshop/wiki) page.
 
-
-More informatino on the GEM building taxonomy can be found in this [Wiki](https://github.com/GFZ-Centre-for-Early-Warning/ECEE2018_Workshop/wiki/GEM-Taxonomy) page.
 
 ## Contacts
 For any further information please contact us:
