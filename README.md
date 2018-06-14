@@ -4,14 +4,14 @@ The use of faceted taxonomies such as the one proposed by the Global Earthquake 
 
 ## Logistic information
 
-TITLE/GROUP: Elicitation Workshop 
-TYPE: workshop  
-DATE: Tuesday 19th June 2018 
-TIME: 11:00-13:00
-ROOM: CR2 (building M2 - Thessaloniki Concert Hall/16ECEE Conference Venue)
-PAX: 10-20
-DURATION: 2h  
-SETTING: Classroom Style 
+* TITLE/GROUP: Elicitation Workshop 
+* TYPE: workshop  
+* DATE: Tuesday 19th June 2018 
+* TIME: 11:15-13:00
+* ROOM: CR2 (building M2 - Thessaloniki Concert Hall/16ECEE Conference Venue)
+* PAX: 10-20
+* DURATION: 2h  
+* SETTING: Classroom Style 
 
 ## Elicitation forms
 Please click on the links below to access the online forms.
