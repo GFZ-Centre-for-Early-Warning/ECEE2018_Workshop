@@ -23,6 +23,6 @@ More informatino on the HAZUS building types can be found in this [Wiki](https:/
 
 ## Contacts
 For any further information please contact us:
-Dr. Massimiliano Pittore, GFZ-Potsdam - pittore AT gfz-potsdam.de - +49 331 288 28668
-Dr. Michael Haas, GFZ-Potsdam - mhaas AT gfz-potsdam.de - +49 331 288 28930
+* Dr. Massimiliano Pittore, GFZ-Potsdam - pittore AT gfz-potsdam.de - +49 331 288 28668
+* Dr. Michael Haas, GFZ-Potsdam - mhaas AT gfz-potsdam.de - +49 331 288 28930
 
